@@ -28,7 +28,7 @@
 <p align="center">
 <a href="https://instagram.com/anugi_arrawwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anugi_arrawwala_" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=100083715820638&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anugi_arrawwala" height="50" width="50" /></a>
-<a href="https://tiktok.com/anugi_arrawwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/[tiktok.svg](https://g.co/kgs/YL4ugzR)" alt="anugi_arrawwala_" height="50" width="50" /></a>	
+<a href="https://tiktok.com/anugi_arrawwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="anugi_arrawwala_" height="50" width="50" /></a>	
 <a href="https://www.linkedin.com/in/anugi-arrawwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anugi-arrawwala" height="50" width="50" /></a>
 
 </p>
